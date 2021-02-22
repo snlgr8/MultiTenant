@@ -1,0 +1,24 @@
+{
+  "name": "samplesaas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon --watch src --exec babel-node src"
+  },
+  "author": "sonal",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/cli": "^7.12.17",
+    "@babel/core": "^7.12.17",
+    "@babel/node": "^7.12.17",
+    "@babel/preset-env": "^7.12.17",
+    "body-parser": "^1.19.0",
+    "continuation-local-storage": "^3.2.1",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "knex": "^0.21.17",
+    "pg": "^8.5.1"
+  }
+}
