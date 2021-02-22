@@ -1,6 +1,8 @@
 ## To run this project👇
 
 - Clone(fork) this repository
+- Setup postgres db on local 
+- Execute db_scripts.sql file
 - Run these following commands on your terminal/ cmd prompt:
   - cd MultiTenant
   - npm install
