@@ -2,7 +2,7 @@
 
 - Clone(fork) this repository
 - Setup postgres db on local 
-- Execute db_scripts.sql file
+- Execute createdb.sh
 - Run these following commands on your terminal/ cmd prompt:
   - cd MultiTenant
   - npm install
